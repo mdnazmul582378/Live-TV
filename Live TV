@@ -1,92 +1,92 @@
-#EXTINF:-1 tvg-id="10001" tvg-name="ATN NEWS" tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BD Channel | Live TV", ATN NEWS
+#EXTINF:-1 tvg-id="10001" tvg-name="ATN NEWS" tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="LiveTV", ATN NEWS
 https://app.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10002" tvg-name="CHANNEL 24 HD" tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="BD Channel | Live TV", CHANNEL 24 HD
+#EXTINF:-1 tvg-id="10002" tvg-name="CHANNEL 24 HD" tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="LiveTV", CHANNEL 24 HD
 https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10003" tvg-name="Ekattor TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEgHkmhilVeJNeDvb-kDWozmoGL1s50QezUw&usqp=CAU" group-title="BD Channel | Live TV", Ekattor TV
+#EXTINF:-1 tvg-id="10003" tvg-name="Ekattor TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEgHkmhilVeJNeDvb-kDWozmoGL1s50QezUw&usqp=CAU" group-title="LiveTV", Ekattor TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10004" tvg-name="JAMUNA TV" tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="BD Channel | Live TV", JAMUNA TV
+#EXTINF:-1 tvg-id="10004" tvg-name="JAMUNA TV" tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="LiveTV", JAMUNA TV
 https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10005" tvg-name="Independent TV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EnxMKoBQvWpoqa6WchdaWz1ROQNzXjVbi_g_BFXEQPwf7PCc55WzbJY&s=10" group-title="BD Channel | Live TV", Independent TV 1
+#EXTINF:-1 tvg-id="10005" tvg-name="Independent TV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EnxMKoBQvWpoqa6WchdaWz1ROQNzXjVbi_g_BFXEQPwf7PCc55WzbJY&s=10" group-title="LiveTV", Independent TV 1
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10006" tvg-name="NEWS 24 HD" tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="BD Channel | Live TV", NEWS 24 HD
+#EXTINF:-1 tvg-id="10006" tvg-name="NEWS 24 HD" tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="LiveTV", NEWS 24 HD
 https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10007" tvg-name="SOMOY TV" tvg-logo="https://i.imgur.com/18m3T6f.png" group-title="BD Channel | Live TV", SOMOY TV
+#EXTINF:-1 tvg-id="10007" tvg-name="SOMOY TV" tvg-logo="https://i.imgur.com/18m3T6f.png" group-title="LiveTV", SOMOY TV
 https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10008" tvg-name="DBC NEWS" tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="BD Channel | Live TV", DBC NEWS
+#EXTINF:-1 tvg-id="10008" tvg-name="DBC NEWS" tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="LiveTV", DBC NEWS
 https://app.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10009" tvg-name="BANGLAVISION" tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="BD Channel | Live TV", BANGLAVISION
+#EXTINF:-1 tvg-id="10009" tvg-name="BANGLAVISION" tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="LiveTV", BANGLAVISION
 https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10010" tvg-name="BTV" tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" group-title="BD Channel | Live TV", BTV
+#EXTINF:-1 tvg-id="10010" tvg-name="BTV" tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" group-title="LiveTV", BTV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10011" tvg-name="R TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BD Channel | Live TV", R TV
+#EXTINF:-1 tvg-id="10011" tvg-name="R TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="LiveTV", R TV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
-#EXTINF:-1 tvg-id="10012" tvg-name="Boishakhi TV HD 1" tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BD Channel | Live TV", Boishakhi TV HD 1
+#EXTINF:-1 tvg-id="10012" tvg-name="Boishakhi TV HD 1" tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="LiveTV", Boishakhi TV HD 1
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id="10013" tvg-name="Deshi TV" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BD Channel | Live TV", Deshi TV
-#EXTINF:-1 tvg-id="10014" tvg-name="ATN BANGLA" tvg-logo="https://imgpile.com/images/58KJbk.png" group-title="BD Channel | Live TV", ATN BANGLA
+#EXTINF:-1 tvg-id="10013" tvg-name="Deshi TV" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="LiveTV", Deshi TV
+#EXTINF:-1 tvg-id="10014" tvg-name="ATN BANGLA" tvg-logo="https://imgpile.com/images/58KJbk.png" group-title="LiveTV", ATN BANGLA
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="10015" tvg-name="ATN BANGLA" tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BD Channel | Live TV", ATN BANGLA
+#EXTINF:-1 tvg-id="10015" tvg-name="ATN BANGLA" tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="LiveTV", ATN BANGLA
 https://app.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10016" tvg-name="BIJOY TV" tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="BD Channel | Live TV", BIJOY TV
+#EXTINF:-1 tvg-id="10016" tvg-name="BIJOY TV" tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="LiveTV", BIJOY TV
 https://app.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10017" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BD Channel | Live TV", Deepto TV
+#EXTINF:-1 tvg-id="10017" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="LiveTV", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-id="10018" tvg-name="GLOBAL TV" tvg-logo="https://yt3.googleusercontent.com/rR28YaeQ9zoXPd7HnLb_M5OagJir5bosRP6beinpSoC3P9vr6wC1hfZKrzMMDsYYp9yMg8V2z1k=s900-c-k-c0x00ffffff-no-rj" group-title="BD Channel | Live TV", GLOBAL TV
+#EXTINF:-1 tvg-id="10018" tvg-name="GLOBAL TV" tvg-logo="https://yt3.googleusercontent.com/rR28YaeQ9zoXPd7HnLb_M5OagJir5bosRP6beinpSoC3P9vr6wC1hfZKrzMMDsYYp9yMg8V2z1k=s900-c-k-c0x00ffffff-no-rj" group-title="LiveTV", GLOBAL TV
 https://app.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10019" tvg-name="Movie Bangla" tvg-logo="https://i.ibb.co.com/4ZbTdbx/images-1.jpg" group-title="BD Channel | Live TV", Movie Bangla
+#EXTINF:-1 tvg-id="10019" tvg-name="Movie Bangla" tvg-logo="https://i.ibb.co.com/4ZbTdbx/images-1.jpg" group-title="LiveTV", Movie Bangla
 https://app.ncare.live/live-orgin/moviebanglalink2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10020" tvg-name="CHANNEL UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB5BvpXZ2hQk4gzD7Fx_LWlEYzxXXTR2otIA&s" group-title="BD Channel | Live TV", CHANNEL UK
+#EXTINF:-1 tvg-id="10020" tvg-name="CHANNEL UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB5BvpXZ2hQk4gzD7Fx_LWlEYzxXXTR2otIA&s" group-title="LiveTV", CHANNEL UK
 https://app.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10021" tvg-name="ATN NEWS" tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BD Channel | Live TV", ATN NEWS
+#EXTINF:-1 tvg-id="10021" tvg-name="ATN NEWS" tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="LiveTV", ATN NEWS
 https://app.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10022" tvg-name="NEXUS TV" tvg-logo="https://i.imgur.com/l76jXPz.png" group-title="BD Channel | Live TV", NEXUS TV
+#EXTINF:-1 tvg-id="10022" tvg-name="NEXUS TV" tvg-logo="https://i.imgur.com/l76jXPz.png" group-title="LiveTV", NEXUS TV
 https://app.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10023" tvg-name="Jagoroni TV" tvg-logo="https://i.ibb.co/xG6ySfZ/IMG-20240129-063943.jpg" group-title="BD Channel | Live TV", Jagoroni TV
+#EXTINF:-1 tvg-id="10023" tvg-name="Jagoroni TV" tvg-logo="https://i.ibb.co/xG6ySfZ/IMG-20240129-063943.jpg" group-title="LiveTV", Jagoroni TV
 https://app.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10024" tvg-name="BANGLAVISION" tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="BD Channel | Live TV", BANGLAVISION
+#EXTINF:-1 tvg-id="10024" tvg-name="BANGLAVISION" tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="LiveTV", BANGLAVISION
 https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10025" tvg-name="CHANNEL I" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BD Channel | Live TV", CHANNEL I
+#EXTINF:-1 tvg-id="10025" tvg-name="CHANNEL I" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="LiveTV", CHANNEL I
 https://app.ncare.live/live-orgin/channeli-8-org.stream/lplaylist.m3u8
-#EXTINF:-1 tvg-id="10026" tvg-name="BTV WORLD" tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="BD Channel | Live TV", BTV WORLD
+#EXTINF:-1 tvg-id="10026" tvg-name="BTV WORLD" tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="LiveTV", BTV WORLD
 https://app.ncare.live/live-orgin/btvbd-office-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10027" tvg-name="Desh TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/desh.png" group-title="BD Channel | Live TV", Desh TV
+#EXTINF:-1 tvg-id="10027" tvg-name="Desh TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/desh.png" group-title="LiveTV", Desh TV
 https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10028" tvg-name="MY TV HD" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="BD Channel | Live TV", MY TV HD
+#EXTINF:-1 tvg-id="10028" tvg-name="MY TV HD" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="LiveTV", MY TV HD
 https://mytvbangla.com/0.m3u8
-#EXTINF:-1 tvg-id="10029" tvg-name="NRB IPTV" tvg-logo="https://imgpile.com/images/58JbM3.jpg" group-title="BD Channel | Live TV", NRB IPTV
+#EXTINF:-1 tvg-id="10029" tvg-name="NRB IPTV" tvg-logo="https://imgpile.com/images/58JbM3.jpg" group-title="LiveTV", NRB IPTV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10030" tvg-name="Asian TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9uQWDW15WB-E9h2mRbV1w4UoeJ0eZofax7E0htXvwCOCuDNXcVMW-D6xOi6C2pRMhqu4&usqp=CAU" group-title="BD Channel | Live TV", Asian TV
+#EXTINF:-1 tvg-id="10030" tvg-name="Asian TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9uQWDW15WB-E9h2mRbV1w4UoeJ0eZofax7E0htXvwCOCuDNXcVMW-D6xOi6C2pRMhqu4&usqp=CAU" group-title="LiveTV", Asian TV
 https://app.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10031" tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="BD Channel | Live TV", MAASRANGA TV HD
+#EXTINF:-1 tvg-id="10031" tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="LiveTV", MAASRANGA TV HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="10037" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co.com/8B0Lpzd/1000021166.png" group-title="KIDS | Live TV", Cartoon Network
+#EXTINF:-1 tvg-id="10037" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co.com/8B0Lpzd/1000021166.png" group-title="LiveTV", Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 tvg-id="10038" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="KIDS | Live TV", DISCOVERY KIDS
+#EXTINF:-1 tvg-id="10038" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="LiveTV", DISCOVERY KIDS
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
-#EXTINF:-1 tvg-id="10039" tvg-name="GUBBARE" tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="KIDS | Live TV", GUBBARE
+#EXTINF:-1 tvg-id="10039" tvg-name="GUBBARE" tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="LiveTV", GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-#EXTINF:-1 tvg-id="10040" tvg-name="RONGEEN TV" tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="KIDS | Live TV", RONGEEN TV
+#EXTINF:-1 tvg-id="10040" tvg-name="RONGEEN TV" tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="LiveTV", RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="10041" tvg-name="TOON GOOGLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy15tEFePYQeCrh2Qhgq5SKECDCg-E2ay7rs0wMfpFDtjvhTbOD5D33SG&s=10" group-title="KIDS | Live TV", TOON GOOGLE
+#EXTINF:-1 tvg-id="10041" tvg-name="TOON GOOGLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy15tEFePYQeCrh2Qhgq5SKECDCg-E2ay7rs0wMfpFDtjvhTbOD5D33SG&s=10" group-title="LiveTV", TOON GOOGLE
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
-#EXTINF:-1 tvg-id="10042" tvg-name="Pogo Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySsUe6YVUstmCI7sEmf1VGCO59yn72GSUlXGwrIJu6_991hFBQaET_Cxb&s=10" group-title="KIDS | Live TV", Pogo Hindi
+#EXTINF:-1 tvg-id="10042" tvg-name="Pogo Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySsUe6YVUstmCI7sEmf1VGCO59yn72GSUlXGwrIJu6_991hFBQaET_Cxb&s=10" group-title="LiveTV", Pogo Hindi
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="10043" tvg-name="KIDS CREATION" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="KIDS | Live TV", KIDS CREATION
+#EXTINF:-1 tvg-id="10043" tvg-name="KIDS CREATION" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="LiveTV", KIDS CREATION
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="10044" tvg-name="KIDS FLIX" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="KIDS | Live TV", KIDS FLIX
+#EXTINF:-1 tvg-id="10044" tvg-name="KIDS FLIX" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="LiveTV", KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 tvg-id="10045" tvg-name="Beani Kids" tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="KIDS | Live TV", Beani Kids
+#EXTINF:-1 tvg-id="10045" tvg-name="Beani Kids" tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="LiveTV", Beani Kids
 https://streams.sofast.tv/ptnr-yupptv/title-BEANI-KIDS-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ae504cae-b81f-49e6-8b40-71d7c0843589/manifest.m3u8
-#EXTINF:-1 tvg-id="10046" tvg-name="Spacetoon" tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png" group-title="KIDS | Live TV", Spacetoon
+#EXTINF:-1 tvg-id="10046" tvg-name="Spacetoon" tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png" group-title="LiveTV", Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="10047" tvg-name="Jungle Book" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="KIDS | Live TV", Jungle Book
+#EXTINF:-1 tvg-id="10047" tvg-name="Jungle Book" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="LiveTV", Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 tvg-id="10048" tvg-name="Zoo Moo" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" group-title="KIDS | Live TV", Zoo Moo
+#EXTINF:-1 tvg-id="10048" tvg-name="Zoo Moo" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" group-title="LiveTV", Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="10049" tvg-name="MINIMAX" tvg-logo="https://yt3.googleusercontent.com/kj2RJWnjyrB5bha8lv7xfvlcj1gHPUIc03tR-S1fbbPCoZEYm1vHDZ0M_VH2V-d-kUiROSVHyvw=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS | Live TV", MINIMAX
+#EXTINF:-1 tvg-id="10049" tvg-name="MINIMAX" tvg-logo="https://yt3.googleusercontent.com/kj2RJWnjyrB5bha8lv7xfvlcj1gHPUIc03tR-S1fbbPCoZEYm1vHDZ0M_VH2V-d-kUiROSVHyvw=s900-c-k-c0x00ffffff-no-rj" group-title="LiveTV", MINIMAX
 https://livetranscode.com/Minimax/index.m3u8
-#EXTINF:-1 tvg-id="10050" tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png" group-title="KIDS | Live TV", PBS Kids
+#EXTINF:-1 tvg-id="10050" tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png" group-title="LiveTV", PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="10051" tvg-name="Me TV" tvg-logo="https://i.ibb.co.com/BjWTMLy/images-1.png" group-title="KIDS | Live TV", Me TV
+#EXTINF:-1 tvg-id="10051" tvg-name="Me TV" tvg-logo="https://i.ibb.co.com/BjWTMLy/images-1.png" group-title="LiveTV", Me TV
 https://iptvbd.live/metv1080/1080.m3u8
